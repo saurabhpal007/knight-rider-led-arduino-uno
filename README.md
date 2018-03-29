@@ -1,5 +1,5 @@
 #readme
-*Simple Code For Beginners To Make Knight Rider Lght Using Arduino
+*Simple Code For Beginners To Make Knight Rider Light Using Arduino
 Steps:
 ~Connect all leds to breadboard in a row. 
 ~Connect positive terminal to A0-A12 on breadboard.
